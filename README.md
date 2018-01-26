@@ -137,3 +137,8 @@ sudo python matrix8x8_test.py
 
 
 # Finished!
+
+
+sudo apt-get install python-numpy
+sudo apt-get install python-bitarray
+
